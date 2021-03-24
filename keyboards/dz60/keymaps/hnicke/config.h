@@ -1,2 +1,0 @@
-#undef RGBLIGHT_ENABLE
-#define RGBLIGHT_ENABLE = no

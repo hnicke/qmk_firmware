@@ -1,0 +1,4 @@
+LAYOUTS = LAYOUT_60_calbatr0ss
+RGBLIGHT_ENABLE = no
+UNICODE_ENABLE = yes
+PROUDCT = hnicke
